@@ -6,7 +6,7 @@ import jdk.jfr.Enabled;
 import java.math.BigDecimal;
 import java.math.BigInteger;
 
-@Enabled
+@Entity
 @Table(name = "tb_produto")
 public class Produto {
 
